@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "vue": "^2.6.10",
     "vuejs-jwt": "^1.1.0"
   },
